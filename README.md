@@ -2,6 +2,7 @@
 ## Group Members
 - Syehan Fariz Gustomo - 1301210530
 - Naufal Geo Pastrana - 1301213083
+- Brilliant Jordan - 1301213318
 - Akmal Sidki Razaka - 1301210547
 
 # Object Detection for Car and Ambulance Identification
